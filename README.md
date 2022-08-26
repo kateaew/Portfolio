@@ -1,5 +1,3 @@
-# Portfolio
-Assignment 1
 # Assignment 1 - Portfolio
 
 ## Table of contents
